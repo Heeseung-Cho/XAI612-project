@@ -9,5 +9,8 @@ We used ResNet50, ResNet101. Tensorflow code was followed from https://github.co
 * Custom earlystop: Since initial training is unstable, set up wait point for checkpoint and earlystop until 100 epochs
 * ExponentialDecay on LearningSchedule
 
-
 Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DeTFm5gnW3lucOyaMJY945yzm_PorUQW?usp=sharing)
+
+## Result
+<img class="Acc" src="Accuracy.png">
+<img class="Acc" src="Loss.png">
