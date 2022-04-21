@@ -14,3 +14,6 @@ Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-bad
 ## Result
 <img class="Acc" src="Accuracy.png">
 <img class="Acc" src="Loss.png">
+
+## Next to do
+Augment on retina vessel https://github.com/onurboyar/Retinal-Vessel-Segmentation
