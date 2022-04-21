@@ -16,4 +16,8 @@ Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-bad
 <img class="Acc" src="Loss.png">
 
 ## Next to do
-Augment on retina vessel https://github.com/onurboyar/Retinal-Vessel-Segmentation
+1. Do with Pytorch
+2. Augment more
+3. Get pre-trained version
+4. Adjust for 5 folds.
+5. Visualization on GradCAM
